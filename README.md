@@ -1,0 +1,1 @@
+# Room Management System\n\nThis project is a Room Management System that provides functionalities for managing rooms, reservations and related activities.
